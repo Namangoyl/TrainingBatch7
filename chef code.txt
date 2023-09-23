@@ -1,3 +1,4 @@
+//that's command work only for chef tools
 file '/myfile' do
 content 'Welcome to Technical Guftgu'
 action :create
