@@ -1,4 +1,4 @@
-
+// nothing to do
 class first {
     public static void main(String[] args) {
 	
@@ -7,5 +7,5 @@ class first {
 	for (int i = 10; i >= 1; i--) {
             System.out.println(i);
 	}
-    }
+    
 }
